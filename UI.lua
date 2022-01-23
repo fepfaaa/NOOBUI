@@ -137,7 +137,7 @@ Imagelogo.BackgroundTransparency = 1.000
 Imagelogo.Position = UDim2.new(0, 8, 0, 9)
 Imagelogo.Size = UDim2.new(0, 25, 0, 25)
 Imagelogo.ZIndex = 2
-Imagelogo.Image = "http://www.roblox.com/asset/?id=8620947776"
+Imagelogo.Image = "rbxassetid://8620947776" --เปลี่ยนรูป Logo ตรงนี้
 Imagelogo.ImageRectOffset = Vector2.new(50, 800)
 Imagelogo.ImageRectSize = Vector2.new(50, 50)
 
